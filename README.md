@@ -1,6 +1,10 @@
 ## Hi there ✌️
 
-##I'm Leo, a junior Front-end Developer.
+I'm Leo, a junior Front-end Developer.
+
+I desing and build whatever it comes to my mind.
+
+My main tech is HTML, CSS, JavaScript, GSAP and Git. However, I'm learning React at the moment for a massive power up!
 
 <!--
 **LeoJG49/LeoJG49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
