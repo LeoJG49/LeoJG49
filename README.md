@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ✌️
+
+##I'm Leo, a junior Front-end Developer.
 
 <!--
 **LeoJG49/LeoJG49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
