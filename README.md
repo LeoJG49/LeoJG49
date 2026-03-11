@@ -1,6 +1,6 @@
 ## Hi there ✌️
 
-I'm Leo, a junior Front-end Developer.
+I'm Leo, a junior Front-End Developer.
 
 I desing and build whatever it comes to my mind.
 
